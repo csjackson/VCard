@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="96a6949e-8943-4b90-b119-5cf24f2afb52" name="Chris@TIMTABLET 2011-06-18 09:29:18" runUser="TimTablet\Chris" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="db500a9a-b646-4590-85ca-fee566752b0e">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Chris_TIMTABLET 2011-06-18 09_29_18">
+      <DeploymentItem filename="C:\source\VCard\VCardEater\VCardEater\bin\Debug\VCardEater.exe" />
+      <DeploymentItem filename="C:\source\Adventure\lib\Rhino.Mocks-3.6\Rhino.Mocks.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-06-18T09:29:18.5860784-05:00" queuing="2011-06-18T09:29:18.6200791-05:00" start="2011-06-18T09:29:18.6390795-05:00" finish="2011-06-18T09:29:19.0800890-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" passed="3" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="FW_Should_Write_a_File" storage="c:\source\vcard\vcardeater\vcardtest\bin\debug\vcardtest.dll" id="9a8d3f15-90dd-5503-fe8b-a70794959668">
+      <Execution id="d292ca9e-bbc6-4c27-933f-908278a9a089" />
+      <TestMethod codeBase="C:/source/VCard/VCardEater/VCardTest/bin/Debug/VCardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VCardTest.VCardWriterTest, VCardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FW_Should_Write_a_File" />
+    </UnitTest>
+    <UnitTest name="Full_Name_Should_Handle_Missing_Middle_Name" storage="c:\source\vcard\vcardeater\vcardtest\bin\debug\vcardtest.dll" id="eb57ca50-551b-29a6-6648-755a2c7656cd">
+      <Execution id="cf88f0c6-74ee-4217-8574-e2e201eaf291" />
+      <TestMethod codeBase="C:/source/VCard/VCardEater/VCardTest/bin/Debug/VCardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VCardTest.VCardWriterTest, VCardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Full_Name_Should_Handle_Missing_Middle_Name" />
+    </UnitTest>
+    <UnitTest name="TicToc_Should_Format_Time_For_Rev_Field" storage="c:\source\vcard\vcardeater\vcardtest\bin\debug\vcardtest.dll" id="cf2c5016-6211-63f6-0bbf-17463c6243f9">
+      <Execution id="8ece2b9c-f0ee-45a9-b543-1c88efaf6db6" />
+      <TestMethod codeBase="C:/source/VCard/VCardEater/VCardTest/bin/Debug/VCardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VCardTest.VCardWriterTest, VCardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TicToc_Should_Format_Time_For_Rev_Field" />
+    </UnitTest>
+    <UnitTest name="Full_Name_Should_Handle_Middle_Name" storage="c:\source\vcard\vcardeater\vcardtest\bin\debug\vcardtest.dll" id="82a939cc-8ca0-ad5d-2c92-2f148545a0eb">
+      <Execution id="c83c53ca-3124-416a-a128-79d31f7d55ae" />
+      <TestMethod codeBase="C:/source/VCard/VCardEater/VCardTest/bin/Debug/VCardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="VCardTest.VCardWriterTest, VCardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Full_Name_Should_Handle_Middle_Name" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="82a939cc-8ca0-ad5d-2c92-2f148545a0eb" executionId="c83c53ca-3124-416a-a128-79d31f7d55ae" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9a8d3f15-90dd-5503-fe8b-a70794959668" executionId="d292ca9e-bbc6-4c27-933f-908278a9a089" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf2c5016-6211-63f6-0bbf-17463c6243f9" executionId="8ece2b9c-f0ee-45a9-b543-1c88efaf6db6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eb57ca50-551b-29a6-6648-755a2c7656cd" executionId="cf88f0c6-74ee-4217-8574-e2e201eaf291" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c83c53ca-3124-416a-a128-79d31f7d55ae" testId="82a939cc-8ca0-ad5d-2c92-2f148545a0eb" testName="Full_Name_Should_Handle_Middle_Name" computerName="TIMTABLET" duration="00:00:00.0234514" startTime="2011-06-18T09:29:18.6510798-05:00" endTime="2011-06-18T09:29:18.9680866-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c83c53ca-3124-416a-a128-79d31f7d55ae">
+    </UnitTestResult>
+    <UnitTestResult executionId="d292ca9e-bbc6-4c27-933f-908278a9a089" testId="9a8d3f15-90dd-5503-fe8b-a70794959668" testName="FW_Should_Write_a_File" computerName="TIMTABLET" duration="00:00:00.0253560" startTime="2011-06-18T09:29:18.9700867-05:00" endTime="2011-06-18T09:29:19.0130876-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d292ca9e-bbc6-4c27-933f-908278a9a089">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Fail failed. </Message>
+          <StackTrace>   at VCardTest.VCardWriterTest.FW_Should_Write_a_File() in C:\source\VCard\VCardEater\VCardTest\VCardWriterTest.cs:line 37
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8ece2b9c-f0ee-45a9-b543-1c88efaf6db6" testId="cf2c5016-6211-63f6-0bbf-17463c6243f9" testName="TicToc_Should_Format_Time_For_Rev_Field" computerName="TIMTABLET" duration="00:00:00.0025093" startTime="2011-06-18T09:29:19.0170877-05:00" endTime="2011-06-18T09:29:19.0340880-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ece2b9c-f0ee-45a9-b543-1c88efaf6db6">
+    </UnitTestResult>
+    <UnitTestResult executionId="cf88f0c6-74ee-4217-8574-e2e201eaf291" testId="eb57ca50-551b-29a6-6648-755a2c7656cd" testName="Full_Name_Should_Handle_Missing_Middle_Name" computerName="TIMTABLET" duration="00:00:00.0009757" startTime="2011-06-18T09:29:19.0380881-05:00" endTime="2011-06-18T09:29:19.0560885-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cf88f0c6-74ee-4217-8574-e2e201eaf291">
+    </UnitTestResult>
+  </Results>
+</TestRun>

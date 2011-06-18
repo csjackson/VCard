@@ -1,0 +1,5 @@
+C:\source\VCard\VCardEater\VCardEater\bin\Debug\VCardEater.exe
+C:\source\VCard\VCardEater\VCardEater\bin\Debug\VCardEater.pdb
+C:\source\VCard\VCardEater\VCardEater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\source\VCard\VCardEater\VCardEater\obj\x86\Debug\VCardEater.exe
+C:\source\VCard\VCardEater\VCardEater\obj\x86\Debug\VCardEater.pdb

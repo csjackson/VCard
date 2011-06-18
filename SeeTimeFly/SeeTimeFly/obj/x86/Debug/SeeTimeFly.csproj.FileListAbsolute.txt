@@ -1,0 +1,5 @@
+C:\source\VCard\SeeTimeFly\SeeTimeFly\bin\Debug\SeeTimeFly.exe
+C:\source\VCard\SeeTimeFly\SeeTimeFly\bin\Debug\SeeTimeFly.pdb
+C:\source\VCard\SeeTimeFly\SeeTimeFly\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\source\VCard\SeeTimeFly\SeeTimeFly\obj\x86\Debug\SeeTimeFly.exe
+C:\source\VCard\SeeTimeFly\SeeTimeFly\obj\x86\Debug\SeeTimeFly.pdb

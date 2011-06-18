@@ -1,0 +1,9 @@
+C:\source\VCard\VCardEater\VCardTest\bin\Debug\VCardTest.dll
+C:\source\VCard\VCardEater\VCardTest\bin\Debug\VCardTest.pdb
+C:\source\VCard\VCardEater\VCardTest\bin\Debug\VCardEater.exe
+C:\source\VCard\VCardEater\VCardTest\bin\Debug\VCardEater.pdb
+C:\source\VCard\VCardEater\VCardTest\obj\Debug\ResolveAssemblyReference.cache
+C:\source\VCard\VCardEater\VCardTest\obj\Debug\VCardTest.dll
+C:\source\VCard\VCardEater\VCardTest\obj\Debug\VCardTest.pdb
+C:\source\VCard\VCardEater\VCardTest\bin\Debug\Rhino.Mocks.dll
+C:\source\VCard\VCardEater\VCardTest\bin\Debug\Rhino.Mocks.xml
